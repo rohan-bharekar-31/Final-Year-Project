@@ -1,6 +1,14 @@
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
 
-### Make sure to create a `.env` file with following variables -
+### Project Features 
+
+- Personalized AI-based career guidance
+- AI-generated resumes and cover letters
+- AI-powered mock interview simulations
+- Industry and career insights
+- User authentication and personalized dashboard
+
+### IMP NOTE : Make sure to create a `.env` file with following variables -
 
 ```
 DATABASE_URL=
